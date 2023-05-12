@@ -1,2 +1,2 @@
 # Clone-do-TikTok
-Clone do Tiktok 
+Clone do tiktok utilizando HTML, CSS e JAVASCRIPT.
